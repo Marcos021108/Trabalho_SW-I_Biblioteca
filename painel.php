@@ -110,7 +110,7 @@ include 'header.php'
             <div class="alert alert-danger">
               <h2><i class="fas fa-info-circle me-2"></i>SOBRE</h2>
               <p class="mt-3">Sistema de gerenciamento de biblioteca inspirado no universo de Solo Leveling.</p>
-              <p>Desenvolvido para oferecer a melhor experiência no gerenciamento de acervos bibliográficos.</p>
+              <p>Desenvolvido por Marcos Gariel para oferecer a melhor experiência no gerenciamento de acervos bibliográficos.</p>
             </div>
           </div>
         `;
